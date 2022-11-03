@@ -1,0 +1,9 @@
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\bin\Debug\netcoreapp3.1\RateLimiterTask.deps.json
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\bin\Debug\netcoreapp3.1\RateLimiterTask.dll
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\bin\Debug\netcoreapp3.1\RateLimiterTask.pdb
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\obj\Debug\netcoreapp3.1\RateLimiterTask.csprojAssemblyReference.cache
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\obj\Debug\netcoreapp3.1\RateLimiterTask.AssemblyInfoInputs.cache
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\obj\Debug\netcoreapp3.1\RateLimiterTask.AssemblyInfo.cs
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\obj\Debug\netcoreapp3.1\RateLimiterTask.csproj.CoreCompileInputs.cache
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\obj\Debug\netcoreapp3.1\RateLimiterTask.dll
+C:\Dev\Cs\learning\RateLimiterTask\RateLimiterTask\obj\Debug\netcoreapp3.1\RateLimiterTask.pdb
