@@ -63,7 +63,7 @@ namespace RateLimiterTask
                 Client clientStatistics = (Client)clientTable[key];
 
                 // checking if last request time is within the requestLimitMs
-                if (DateTime.Now < clientStatistics.lastResponseTime.AddSeconds(RequestLimitMs))
+                if (DateTime.Now < clientStatistics.lastResponseTime.AddMilliseconds(RequestLimitMs))
                 {
 
                     // updating client request values
